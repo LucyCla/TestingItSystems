@@ -26,8 +26,8 @@ Try adding images to the issues you create.
 
 See the following videos:
 
-1. Video - [YouTube GitHub Issues Video](https://www.youtube.com/watch?v=TKJ4RdhyB5Y).
-2. Video - [YouTube video about GitHub and Issues](https://www.youtube.com/watch?v=w3jLJU7DT5E).
+1. Video - [YouTube video about GitHub and Issues](https://www.youtube.com/watch?v=w3jLJU7DT5E).
+2. Video - [YouTube GitHub Issues Video](https://www.youtube.com/watch?v=TKJ4RdhyB5Y).
 3. Video - [This GitHub Mastering Issues Web Page](https://guides.github.com/features/issues/).
 4. Web Pages [These GitHub Issues Documentation Web Pages](https://help.github.com/en/github/managing-your-work-on-github/managing-your-work-with-issues).
 
